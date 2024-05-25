@@ -1,6 +1,6 @@
 const { AoiClient } = require("aoi.js");
 require("dotenv").config();
-const { keep_alive } = require("keepalive.js");
+const { keepalive } = require("keepalive.js");
 
 const client = new AoiClient({
     prefix: "r?",
