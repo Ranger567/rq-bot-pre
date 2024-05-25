@@ -1,3 +1,0 @@
-Sa
-
-Botun Sahibi: xRangeroQ
